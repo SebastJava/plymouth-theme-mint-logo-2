@@ -1,4 +1,4 @@
-![Preview](preview-FHD.png)
+![Preview](preview-animated.gif)
 
 # mint-logo-2: A new Plymouth theme for Linux Mint
 This is a new version for your animated boot screen. This logo here is twice as large as the standard one. My boot screen is full HD: 1920 X 1080 pixels. In my humble opinion, the standard Mint Plymouth theme looked a bit "cheap", being too small for this full HD screen. It almost felt like there was just a small "dot" displayed there. Now this new logo is double-sized at 200 pixels large. This works best on FHD screens, but i also tested it on my old little netbook, with a 800 X 600 pixels boot screen. On this small netbook this new logo looks a bit big, but it still works.
