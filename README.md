@@ -6,12 +6,13 @@ This is a new version for your animated boot screen. This logo here is twice as 
 And this logo is also subtly redesigned with the exact same line widths for both the circle and the LM inside. And, also, the spinning background is made of blue tones and is a bit more contrasted than the standard one.
 
 ### How to install
+![Permissions-howto](Permissions-program.png)
+
 1. Download here: https://github.com/SebastJava/plymouth-theme-mint-logo-2/archive/main.zip
 1. Extract this entire zip.
-1. Right-click on INSTALLER.sh > Select Properties > Permissions tab > Execute: Allow executing file as program -OR- type `chmod +x plymouth-theme-mint-logo-2/INSTALLER.sh` in the Terminal.
+1. Right-click on INSTALLER.sh > Select Properties > Permissions tab > Execute: Allow executing file as program. (See screenshot) OR ELSE type `chmod +x plymouth-theme-mint-logo-2/INSTALLER.sh` in the Terminal.
 1. Double-click on INSTALLER to run in Terminal.
 1. Restart and check the results!
-
 
 ### How to revert to the original mint-logo
 1. Set permissions for REVERT.sh to "Allow executing file as program" just like you did for INSTALLER.sh, as described above.
