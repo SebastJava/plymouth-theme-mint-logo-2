@@ -203,7 +203,7 @@ logo = centered_sprite("logo.png");
 
 #Animation settings
 spinner.rot.steps = 48; # steps for 1 full rotation
-spinner.rot.delay = 0.1; # timing in secs
+spinner.rot.delay = 0.05; # timing in secs
 
 # Spacing below the logo - in pixels
 logo_spacing = logo.height * 1;
