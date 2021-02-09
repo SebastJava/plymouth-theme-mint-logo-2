@@ -22,3 +22,16 @@ And this logo is also subtly redesigned with the exact same line widths for both
 ### How to check things (optional)
 You can check things with this command:
 `update-alternatives --display default.plymouth`
+
+You can preview your default plymouth using the plymouth-preview script. You must run this script as root. To do so, you need to open your Terminal in this downloaded plymouth-theme-mint-logo-2 directory and run this script this way:
+
+```
+cd plymouth-theme-mint-logo-2
+sudo ./plymouth-preview.sh
+```
+
+This will preview the splash screen for 10 seconds. You can change this default 10 seconds by adding " XX #seconds" at the end of the command. Example:
+
+```sudo ./plymouth-preview.sh 20```
+
+for a 20 seconds preview.
