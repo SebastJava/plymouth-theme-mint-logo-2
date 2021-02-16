@@ -8,7 +8,7 @@ And this logo is also subtly redesigned with the exact same line widths for both
 ### How to install
 ![Permissions-howto](Permissions-program.png)
 
-1. Download here: https://github.com/SebastJava/plymouth-theme-mint-logo-2/archive/main.zip
+1. [Download ZIP here](https://github.com/SebastJava/plymouth-theme-mint-logo-2/archive/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 1. Extract this entire zip.
 1. Right-click on INSTALLER.sh > Select Properties > Permissions tab > Execute: Allow executing file as program. (See screenshot) OR ELSE type `chmod +x plymouth-theme-mint-logo-2/INSTALLER.sh` in the Terminal.
 1. Double-click on INSTALLER to run in Terminal.
