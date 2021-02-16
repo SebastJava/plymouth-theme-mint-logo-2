@@ -5,9 +5,9 @@ This is a new version for your animated boot screen. This logo here is twice as 
 
 And this logo is also subtly redesigned with the exact same line widths for both the circle and the LM inside. And, also, the spinning background is made of blue tones and is a bit more contrasted than the standard one.
 
-### How to install
 ![Permissions-howto](Permissions-program.png)
 
+### How to install
 1. [Download ZIP here](https://github.com/SebastJava/plymouth-theme-mint-logo-2/archive/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 1. Extract this entire zip.
 1. Right-click on INSTALLER.sh > Select Properties > Permissions tab > Execute: Allow executing file as program. (See screenshot) OR ELSE type `chmod +x plymouth-theme-mint-logo-2/INSTALLER.sh` in the Terminal.
