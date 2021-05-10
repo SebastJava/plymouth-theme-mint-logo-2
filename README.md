@@ -14,6 +14,8 @@ And this logo is also subtly redesigned with the exact same line widths for both
 1. Double-click on INSTALLER to run in Terminal.
 1. Restart and check the results!
 
+NOTE: You can choose from blue or green versions. To switch colors, open `mint-logo-2/mint-logo.script`, and search/replace `spinner-blue` -> `spinner-green` or vice-versa.
+
 ### How to revert to the original mint-logo
 1. Set permissions for REVERT.sh to "Allow executing file as program" just like you did for INSTALLER.sh, as described above.
 1. Double-click on REVERT to run in Terminal.
