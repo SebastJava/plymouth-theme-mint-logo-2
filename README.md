@@ -10,7 +10,6 @@ And this logo is also subtly redesigned with the exact same line widths for both
 ### How to install
 1. [Download ZIP here](https://github.com/SebastJava/plymouth-theme-mint-logo-2/archive/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 1. Extract this entire zip.
-1. OPTION: You can choose from blue or green versions. To switch colors, open `mint-logo-2/mint-logo.script`, and search/replace `spinner-blue` -> `spinner-green` or vice-versa.
 1. Right-click on INSTALLER.sh > Select Properties > Permissions tab > Execute: Allow executing file as program. (See screenshot) OR ELSE type `chmod +x plymouth-theme-mint-logo-2/INSTALLER.sh` in the Terminal.
 1. Double-click on INSTALLER to run in Terminal.
 1. Restart and check the results!
