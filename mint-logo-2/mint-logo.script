@@ -198,7 +198,7 @@ if (bits_per_pixel == 4) {
 
 #Load the sprites
 
-spinner = centered_sprite("spinner-blue.png");
+spinner = centered_sprite("spinner-green.png");
 logo = centered_sprite("logo.png");
 
 #Animation settings
