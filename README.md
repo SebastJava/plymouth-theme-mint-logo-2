@@ -35,3 +35,12 @@ This will preview the splash screen for 10 seconds. You can change this default 
 ```sudo ./plymouth-preview.sh 20```
 
 for a 20 seconds preview.
+
+### Credits
+Written by: Alberto Milone <alberto.milone@canonical.com> <br>
+Adapted to Ubuntu GNOME by: Alfredo Hernández <aldomann.designs@gmail.com> <br>
+Adapted to Linux Mint by: Clément Lefebvre <root@linuxmint.com> <br>
+Modified for Linux Mint by: Sébastien Bouchard <sebastjava@hotmail.ca> <br>
+Based on the example provided with the "script plugin" written by: Charlie Brej <cbrej@cs.man.ac.uk> <br>
+Question stuff written by: Markus Waas <mail@markuswaas.de> <br>
+<br>

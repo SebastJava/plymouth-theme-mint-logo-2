@@ -19,11 +19,9 @@
 #
 #  Written by: Alberto Milone <alberto.milone@canonical.com>
 #  Adapted to Ubuntu GNOME by: Alfredo Hernández <aldomann.designs@gmail.com>
-#  Adapted to Linux Mint by: Clement Lefebvre <root@linuxmint.com>
-#
-#  Based on the example provided with the "script plugin" written by:
-#              Charlie Brej   <cbrej@cs.man.ac.uk>
-#
+#  Adapted to Linux Mint by: Clément Lefebvre <root@linuxmint.com>
+#  Modified for Linux Mint by: Sébastien Bouchard <sebastjava@hotmail.ca>
+#  Based on the example provided with the "script plugin" written by: Charlie Brej <cbrej@cs.man.ac.uk>
 #  Question stuff written by: Markus Waas <mail@markuswaas.de>
 #
 
