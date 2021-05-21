@@ -10,7 +10,7 @@ And this logo is also subtly redesigned with the exact same line widths for both
 ### How to install
 1. [Download ZIP here](https://github.com/SebastJava/plymouth-theme-mint-logo-2/archive/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 1. Extract this entire zip.
-1. Right-click on INSTALLER.sh > Properties > Permissions tab > **Execute: Allow executing file as program.** (See screenshot) OR ELSE type `chmod +x PATH/TO/THIS/INSTALLER.sh` in the Terminal. (This is probably already OK, but just to make sure...)
+1. Make sure **INSTALLER.sh** is allowed to execute as program: File > Properties > Permissions > **Allow executing file as program.** (See screenshot) OR type `chmod +x PATH/TO/THIS/DIRECTORY/INSTALLER.sh` in the terminal.
 1. Open your Terminal into this new directory: `cd PATH/TO/THIS/plymouth-theme-mint-logo-2-main`
 1. In your Terminal, type `./INSTALLER.sh` and press Enter.
 1. Restart and check the results!
