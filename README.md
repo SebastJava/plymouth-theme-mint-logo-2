@@ -10,14 +10,14 @@ And this logo is also subtly redesigned with the exact same line widths for both
 ### How to install
 1. [Download ZIP here](https://github.com/SebastJava/plymouth-theme-mint-logo-2/archive/main.zip) (OR click on top-right green button "Code" and then click on "Download ZIP".)
 1. Extract this entire zip.
-1. Make sure **INSTALLER.sh** is allowed to execute as program: File > Properties > Permissions > **Allow executing file as program.** (See screenshot) OR type `chmod +x PATH/TO/THIS/DIRECTORY/INSTALLER.sh` in the terminal.
-1. Open your Terminal into this new directory: `cd PATH/TO/THIS/plymouth-theme-mint-logo-2-main`
+1. Make sure **INSTALLER.sh** is allowed to execute as program: File > Properties > Permissions > **Allow executing file as program.** (See screenshot) OR type `chmod +x /PATH/TO/THIS/DIRECTORY/INSTALLER.sh` in the terminal.
+1. Open your Terminal into this new directory: `cd /PATH/TO/THIS/plymouth-theme-mint-logo-2-main`
 1. In your Terminal, type `./INSTALLER.sh` and press Enter.
 1. Restart and check the results!
 
 ### How to revert to the original mint-logo
 1. Set permissions for REVERT.sh to **Allow executing file as program** just like you did for INSTALLER.sh, as described above.
-1. Open your Terminal into this new directory: `cd PATH/TO/THIS/plymouth-theme-mint-logo-2-main`
+1. Open your Terminal into this new directory: `cd /PATH/TO/THIS/plymouth-theme-mint-logo-2-main`
 1. In your Terminal, type `./REVERT.sh` and press Enter.
 1. Restart and check the results!
 
@@ -28,7 +28,7 @@ You can check things with this command:
 You can preview your default Plymouth theme using the `plymouth-preview.sh` script. You must run this script as root. To do so, you need to open your Terminal in this downloaded plymouth-theme-mint-logo-2-main directory and run this script, this way:
 
 ```
-cd PATH/TO/THIS/plymouth-theme-mint-logo-2-main
+cd /PATH/TO/THIS/plymouth-theme-mint-logo-2-main
 sudo ./plymouth-preview.sh
 ```
 
