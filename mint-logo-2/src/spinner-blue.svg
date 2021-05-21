@@ -13,8 +13,8 @@
    viewBox="0 0 52.916665 52.916667"
    height="200"
    width="200"
-   sodipodi:docname="spinner.svg"
-   inkscape:export-filename="/home/sebastien/plymouth-theme-mint-logo-2/mint-logo-2/spinner.png"
+   sodipodi:docname="spinner-blue.svg"
+   inkscape:export-filename="/home/sebastien/plymouth-theme-mint-logo-2/mint-logo-2/spinner-green.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -32,6 +32,16 @@
          stdDeviation="4.9609375"
          id="feGaussianBlur880" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath910">
+      <circle
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle912"
+         cx="105.83333"
+         cy="148.16666"
+         r="26.458332" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      units="px"
@@ -40,7 +50,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="100"
-     inkscape:cx="100"
+     inkscape:cx="78.156997"
      inkscape:zoom="4.395"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -87,18 +97,20 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-79.375,-121.70833)">
+     transform="translate(-79.375,-121.70833)"
+     sodipodi:insensitive="true">
     <g
-       id="g855">
+       id="g892">
       <circle
          style="fill:#0095ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path929"
-         cx="105.83333"
-         cy="148.16666"
-         r="24.341665" />
+         cx="105.83334"
+         cy="148.16667"
+         r="26.458334" />
       <g
          id="g865"
-         style="stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;fill:#00bfff;fill-opacity:1">
+         style="fill:#00bfff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(1.0869566,0,0,1.0869566,-9.2029009,-12.884061)">
         <path
            style="fill:#00bfff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle931"
@@ -219,12 +231,21 @@
            transform="rotate(-45)"
            d="m -5.5925274,179.60512 a 24.341665,24.341665 0 0 1 -1.8528989,9.31515 l -22.4887667,-9.31515 z" />
       </g>
-      <circle
-         style="fill:#00bfff;stroke:none;stroke-width:0;filter:url(#filter878);fill-opacity:1"
-         id="path844"
-         cx="105.83334"
-         cy="148.16666"
-         r="19.84375" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Blurred"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#00bfff;fill-opacity:1;stroke:none;stroke-width:0;filter:url(#filter878)"
+       id="path844"
+       cx="105.83334"
+       cy="148.16666"
+       transform="translate(-79.374999,-121.70833)"
+       r="19.84375"
+       clip-path="url(#clipPath910)" />
   </g>
 </svg>

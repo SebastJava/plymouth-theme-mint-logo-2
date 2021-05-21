@@ -32,6 +32,16 @@
          stdDeviation="4.9609375"
          id="feGaussianBlur880" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath910">
+      <circle
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle912"
+         cx="105.83333"
+         cy="148.16666"
+         r="26.458332" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      units="px"
@@ -87,20 +97,22 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(-79.375,-121.70833)">
+     transform="translate(-79.375,-121.70833)"
+     sodipodi:insensitive="true">
     <g
-       id="g855">
+       id="g892">
       <circle
-         style="fill:#00b800;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#00cc00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path929"
-         cx="105.83333"
-         cy="148.16666"
-         r="24.341665" />
+         cx="105.83334"
+         cy="148.16667"
+         r="26.458334" />
       <g
          id="g865"
-         style="stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;fill:#00bfff;fill-opacity:1">
+         style="fill:#00bfff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(1.0869566,0,0,1.0869566,-9.2029009,-12.884061)">
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle931"
            sodipodi:type="arc"
            sodipodi:cx="105.83333"
@@ -114,7 +126,7 @@
            inkscape:transform-center-y="4.6575678"
            d="m 130.17499,148.16666 a 24.341665,24.341665 0 0 1 -1.8529,9.31515 l -22.48876,-9.31515 z" />
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path843"
            sodipodi:type="arc"
            sodipodi:cx="179.60512"
@@ -129,7 +141,7 @@
            transform="rotate(45)"
            d="m 203.94678,29.934177 a 24.341665,24.341665 0 0 1 -1.8529,9.315152 l -22.48876,-9.315152 z" />
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path845"
            sodipodi:type="arc"
            sodipodi:cx="148.16666"
@@ -144,7 +156,7 @@
            transform="rotate(90)"
            d="m 172.50832,-105.83334 a 24.341665,24.341665 0 0 1 -1.8529,9.315148 l -22.48876,-9.315148 z" />
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path847"
            sodipodi:type="arc"
            sodipodi:cx="29.934177"
@@ -159,7 +171,7 @@
            transform="rotate(135)"
            d="m 54.275843,-179.60513 a 24.341665,24.341665 0 0 1 -1.852899,9.31515 l -22.488767,-9.31515 z" />
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path849"
            sodipodi:type="arc"
            sodipodi:cx="-105.83334"
@@ -174,7 +186,7 @@
            transform="scale(-1)"
            d="m -81.491678,-148.16667 a 24.341665,24.341665 0 0 1 -1.852899,9.31515 l -22.488763,-9.31515 z" />
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path851"
            sodipodi:type="arc"
            sodipodi:cx="-179.60513"
@@ -189,7 +201,7 @@
            transform="rotate(-135)"
            d="m -155.26347,-29.934193 a 24.341665,24.341665 0 0 1 -1.8529,9.315152 l -22.48876,-9.315152 z" />
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path853"
            sodipodi:type="arc"
            sodipodi:cx="-148.16667"
@@ -204,7 +216,7 @@
            transform="rotate(-90)"
            d="m -123.82501,105.83333 a 24.341665,24.341665 0 0 1 -1.8529,9.31515 l -22.48876,-9.31515 z" />
         <path
-           style="fill:#00e000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path855"
            sodipodi:type="arc"
            sodipodi:cx="-29.934193"
@@ -219,12 +231,21 @@
            transform="rotate(-45)"
            d="m -5.5925274,179.60512 a 24.341665,24.341665 0 0 1 -1.8528989,9.31515 l -22.4887667,-9.31515 z" />
       </g>
-      <circle
-         style="fill:#00e000;stroke:none;stroke-width:0;filter:url(#filter878);fill-opacity:1"
-         id="path844"
-         cx="105.83334"
-         cy="148.16666"
-         r="19.84375" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Blurred"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0;filter:url(#filter878)"
+       id="path844"
+       cx="105.83334"
+       cy="148.16666"
+       transform="translate(-79.374999,-121.70833)"
+       r="19.84375"
+       clip-path="url(#clipPath910)" />
   </g>
 </svg>
