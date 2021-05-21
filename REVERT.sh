@@ -3,7 +3,7 @@
 # © 2021 Sébastien Bouchard
 # <sebastjava@hotmail.ca>
 
-echo
+echo; echo; echo; echo
 echo "This installer will change your Plymouth theme, reverting to your standard Mint logo."
 echo "This will take a few seconds. Do not quit until you are invited to do so..."
 echo "Please enter your password for this."

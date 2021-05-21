@@ -3,6 +3,7 @@
 # © 2021 Sébastien Bouchard
 # <sebastjava@hotmail.ca>
 
+echo; echo; echo; echo
 echo "This installer will change your Plymouth theme, giving a new look to your boot screen."
 echo "Please enter your password for this."
 sudo mkdir -p /usr/share/plymouth/themes && sudo cp -rf mint-logo-2 /usr/share/plymouth/themes
