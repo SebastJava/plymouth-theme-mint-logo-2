@@ -196,11 +196,11 @@ if (bits_per_pixel == 4) {
 
 #Load the sprites
 
-spinner = centered_sprite("spinner-green.png");
+spinner = centered_sprite("spinner.png");
 logo = centered_sprite("logo.png");
 
 #Animation settings
-spinner.rot.steps = 48; # steps for 1 full rotation
+spinner.rot.steps = 36; # steps for 1 full rotation
 spinner.rot.delay = 0.1; # timing in secs
 
 # Spacing below the logo - in pixels
