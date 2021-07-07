@@ -178,8 +178,8 @@ fun centered_sprite(filename) {
 }
 
 
-Window.SetBackgroundTopColor (0, 0, 0);     # Nice colour on top of the screen fading to
-Window.SetBackgroundBottomColor (0, 0, 0);  # an equally nice colour on the bottom
+Window.SetBackgroundTopColor (0.60, 0.84, 0.12);     # 9AD61F converted to rgb(0-1, 0-1, 0-1) fading to
+Window.SetBackgroundBottomColor (0.00, 0.60, 0.60);  # 009999 converted to rgb(0-1, 0-1, 0-1)
 
 #-----------------------------------------------------------------------------
 
