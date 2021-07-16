@@ -1,4 +1,5 @@
 ![Preview](preview-animated-100ms.gif)
+
 NOTE: This is just an animated GIF preview. The real thing is better, with a perfect color gradient.
 
 # mint-logo-2: A new Plymouth theme for Linux Mint
@@ -39,7 +40,9 @@ This will preview the splash screen for 10 seconds. You can change this default 
 
 for a 20 seconds preview.
 
-### Credits
+### Based on the official, trustworthy engine
+(The official copyrights are listed in: mint-logo-2/mint-logo.script)
+
 Written by: Alberto Milone <alberto.milone@canonical.com> <br>
 Adapted to Ubuntu GNOME by: Alfredo Hernández <aldomann.designs@gmail.com> <br>
 Adapted to Linux Mint by: Clément Lefebvre <root@linuxmint.com> <br>
@@ -47,3 +50,12 @@ Modified for Linux Mint by: Sébastien Bouchard <sebastjava@hotmail.ca> <br>
 Based on the example provided with the "script plugin" written by: Charlie Brej <cbrej@cs.man.ac.uk> <br>
 Question stuff written by: Markus Waas <mail@markuswaas.de> <br>
 <br>
+
+Modified or added by Sébastien Bouchard <sebastjava@hotmail.ca> for Linux Mint:
+
+* new images and new SVG sources for these new images
+* new logo design (minor changes)
+* changed settings in mint-logo-2/mint-logo.script (minor changes)
+* simple installer, revert, and preview scripts
+* previews
+* etc.
