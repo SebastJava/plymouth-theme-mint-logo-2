@@ -7,6 +7,10 @@ This is a new version for your animated boot screen. This logo here is twice as 
 
 And everything is completely redesigned here, with a clearly noticeable animation and a nice mint flavored background. And yet, it is still discreet, not too flashy.
 
+[FIND NEW PLYMOUTH THEMES mint-3 here](https://github.com/SebastJava/plymouth-theme-mint-3?tab=readme-ov-file#readme). These new themes are based on the same engine as the current Plymouth theme for Linux Mint 21.3.
+
+---
+
 ![Permissions-howto](Permissions-program.png)
 
 ### How to install
